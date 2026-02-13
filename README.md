@@ -1,1 +1,1 @@
-# ini adalah repositpry untuk membuat branch baru di GitHub.
+# ini adalah repository untuk membuat branch baru di GitHub.
