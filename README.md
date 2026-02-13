@@ -1,2 +1,2 @@
 # ini adalah repository untuk membuat branch baru di GitHub.
-github asik loh
+yu belajar github
